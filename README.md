@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kim</h1>
-<h3 align="center">I'm a passionate developer from New York City. I currently work at Disney Streaming in Ad Operations and am focused on automating processes.</h3>
+<h3 align="center">I'm a full-stack developer from New York City. I currently work at Disney Streaming in Ad Operations and am focused on automating processes.</h3>
 
 - 📫 How to reach me **kimberlylinhtran@gmail.com**
 
