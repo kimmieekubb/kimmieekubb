@@ -1,6 +1,3 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4E16AQHHHWOtlug7cA/profile-displaybackgroundimage-shrink_350_1400/0/1644520594593?e=1658361600&v=beta&t=uJj8Do2_8qWJmjsm3SYZ8rZWpqQNrUo06CdSmQYMCQ0">
-
-
 <h1 align="center">Hi 👋, I'm Kim</h1>
 <h3 align="center">I'm a full-stack developer from New York City. I currently work at Disney Streaming in Ad Operations and am focused on automating processes.</h3>
 
